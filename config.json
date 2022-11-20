@@ -1,0 +1,6 @@
+{
+    "modules": [
+        "auth_kelolaku",
+        "walktrough"
+    ]
+}
